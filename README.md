@@ -1,4 +1,4 @@
-# qhack_2023_coding_challenges
+# QHack2023 coding challenges
 
 Solutions to the QHack 2023 coding challenges here!
 
@@ -14,7 +14,7 @@ The challenges are organized into 5 categories or _stories_:
 
 Within each of the folders corresponding to the stories above, you will find a number of subfolders, one for each challenge in that story. Inside each of these folders, you will find a README file containing the challenge statement, a Jupyter Notebook containing the template for solving the challenge, and (sometimes) a folder with images.
 
-### Running the coding challenge
+### Notebooks structure
 
 The Jupyter Notebook contains the following sections:
 
